@@ -1,0 +1,13 @@
+echo "# chessyprogram" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JohnAzara/chessyprogram.git
+git push -u origin main
+print("Welcome to the chessy program.")
+int(" what kind of cheese you like:?"):
+if you want ("American cheese")
+or you like ("Swiss Cheese")
+count = the price is..... $2.00
+sales price = 6%
